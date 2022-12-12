@@ -14,5 +14,5 @@ int main()
 }
 double g(const double a, const double b, const double c) // визначення
 {
-	return (a*a+b*b-c*c);
+	return (a*a+b*b-c*c);//
 }
